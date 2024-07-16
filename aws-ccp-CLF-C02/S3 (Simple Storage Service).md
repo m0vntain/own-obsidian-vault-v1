@@ -1,3 +1,5 @@
+**Tags:** #aws #cloud #s3 
+
 - storage service of AWS
 - uses **buckets** and **objects**
 	- objects aka files are the actual data to be stored in the bucket
