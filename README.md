@@ -1,2 +1,2 @@
 # TIL Vault
-Colleciton of my TIL topics/concepts
+Collection of my TIL topics/concepts. Hello World!
