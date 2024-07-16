@@ -1,2 +1,2 @@
-# own-obsidian-vault-v1
-Private obsidian vault
+# TIL Vault
+Colleciton of my TIL topics/concepts
