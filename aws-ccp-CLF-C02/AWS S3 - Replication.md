@@ -1,7 +1,4 @@
-**Tags**: #aws #s3 #cloud
-
-**Resources:**
-- [AWS S3 Docs - Replication](https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html)
+**Resources:** [AWS S3 Docs - Replication](https://docs.aws.amazon.com/AmazonS3/latest/userguide/replication.html)
 ## Overview
 - used to copy objects between S3 buckets
 - *asynchronous* copying/replication
@@ -15,3 +12,6 @@
 
 > [!Note]
 > When creating buckets with replication, make sure to set the **Bucket Versioning** to  `Enabled`. Replication only works if versioning is enabled for the buckets (origin & destination). 
+
+---
+**Tags**: #aws #s3 #cloud

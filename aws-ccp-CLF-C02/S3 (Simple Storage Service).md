@@ -1,4 +1,4 @@
-**Tags:** #aws #cloud #s3 
+
 
 - storage service of AWS
 - uses **buckets** and **objects**
@@ -8,3 +8,6 @@
 ## Versioning
 - keeping multiple variants **of an object** in the same bucket
 - recover more easily from accidental deletion or overwrite
+
+---
+**Tags**: #aws #s3 #cloud
