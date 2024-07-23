@@ -49,3 +49,38 @@ leverage social support to achieve goals:
 
 
 ## Make Success Sustainable
+
+### Strategies to accomplish more
+- **Start with the Most Important Task**
+	- Begin day by tackling the most critical task on list. 
+	- Completing this gives a sense of achievement and can motivate to continue with other tasks.  
+- **Focused Work Sessions**: 
+	- Work intensely for 60 or 90 minutes, then take a break. 
+	- can help to stay productive even when motivation is low, knowing there's a break or reward coming. 
+- **Follow Your Interests**:
+	- choose to work on tasks you feel most inclined towards at the moment (If nothing urgent is pending).
+	- leverages your current mood for productivity.
+
+### Build successful habits
+- **Focus as a Foundation**: 
+	- minimize distractions by turning off notifications on devices.  
+- **Habit Stacking**:
+	- attach new habits to existing ones to make them easier to remember and implement. 
+- **Pre-commitment**: 
+	- willpower can be limited 
+	- pre-commit to actions that align with your goals
+	- e.g. setting deadlines for yourself to ensure progress on important projects.
+
+### Preventing Burnout
+- **Perform Periodic Resets**: 
+	- essential to take breaks and reset yourself
+	- as simple as standing up from your desk, stretching, or taking a short walk. 
+	- help refresh your perspective and prevent exhaustion.  
+- **Draw Boundaries**: 
+	- (remote work situations) setting clear boundaries between work and personal time
+		- having dedicated work hours
+		- ensuring you have time for meals or family without work interruptions.  
+- **Tap into Gamification**: 
+	- viewing daily tasks and challenges as games
+	- make work more engaging and maintain motivation
+	- help track and celebrate your progress over time.
