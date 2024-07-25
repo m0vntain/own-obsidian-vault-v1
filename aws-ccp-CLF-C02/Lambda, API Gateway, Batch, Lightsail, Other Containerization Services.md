@@ -33,6 +33,7 @@
 **API Gateway**
 - serverless APIs
 - supports RESTful and WebSocket APIs
+- expose Lambda functions as HTTP APIs
 
 **Batch**
 - run (containerized) batch jobs on AWS
