@@ -15,4 +15,3 @@
 - architecture models
 - health monitoring - health agents
 	- view metrics inside beanstalk
-- 
